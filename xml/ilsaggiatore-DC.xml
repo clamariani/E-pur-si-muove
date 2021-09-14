@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<libro xml:id="epsm" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://clamariani.github.io/E-pur-si-muove/schema.xsd">
+		<item n="1" xml:id="EPSM-1">
+			<dc:title>il saggiatore</dc:title>
+			<dc:creator ref="http://viaf.org/viaf/2470550">Galilei, Galileo, 1564-1642</dc:creator>
+			<!--Fisica <Filosofia> -->
+			<dc:subject xsi:type="dcterms:BNCF">19544</dc:subject>
+			<!--Astronomy-->
+			<dc:subject xsi:type="dcterms:DDC">520</dc:subject>
+			<!--Italian peninsula & adjacent -->
+			<dc:subject xsi:type="dcterms:DDC">945</dc:subject>
+			<!--Observation (Scientific method)-->
+			<dc:subject xsi:type="dcterms:LCSH">http://id.loc.gov/authorities/subjects/sh87001905</dc:subject>
+			<!--Astronomy-->
+			<dc:subject xsi:type="dcterms:LCSH">http://id.loc.gov/authorities/subjects/sh85009003</dc:subject>
+			<!--Physics-->
+			<dc:subject xsi:type="dcterms:LCSH">
+            http://id.loc.gov/authorities/subjects/sh85101653</dc:subject>
+			<!--Mathematics-->
+			<dc:subject xsi:type="dcterms:LCSH">http://id.loc.gov/authorities/subjects/sh85082139</dc:subject>
+			<!--Astronomia teorica e meccanica celeste-->
+			<dc:subject xsi:type="dcterms:UDC">521</dc:subject>
+
+			<dc:description>
+				Il saggiatore (The assayer) by Galileo Galilei (1564--1642) is the final and most significant work in the polemic regarding the characteristics of comets involving the Italian scientist and mathematician in the years 1618--23. Three comets appeared in the skies over Europe in 1618, giving rise to a debate about the nature of these celestial bodies. In 1619 Jesuit priest Orazio Grassi published a pseudonymous treatise on the comets. Grassi's interpretation was then criticized in Discorso delle comete (Discourse on comets), a work published by Mario Guiducci but attributed to Galileo. Il saggiatore is addressed to Virginio Cesarini, a young man who had heard Galileo lecture in Rome. Taking Grassi's polemic on the nature of celestial bodies as a point of departure, Galileo set forth a general scientific approach to the investigation of celestial phenomena, thereby making an indirect defense of the Copernican, heliocentric, theory against the Ptolemaic, geocentric, system. Galileo argued that the book of nature was written in mathematical terms and so could only be deciphered by those who knew mathematics. Il saggiatore was published in Rome in 1623 under the auspices of the Lincean Academy, and dedicated to Pope Urban VIII. The Roman edition was entrusted to Tommaso Stigliani, who did a poor job resulting in numerous typographical errors. All of the copies of the first edition of Il saggiatore thus bear corrections needed to give the text of Galileo's original meaning. This copy shows marginal notes in Galileo's own hand.
+			</dc:description>
+			<dc:publisher>Giacomo Mascardi</dc:publisher>
+			<dc:date xsi:type="dcterms:W3CDTF">1623</dc:date>
+			<dc:type>Libro</dc:type>
+			<dc:format>Electronic resource</dc:format> 
+			<dc:identifier xsi:type="dcterms:URI">https://clamariani.github.io/E-pur-si-muove/item.html</dc:identifier>
+			<dc:source xsi:type="dcterms:URI">https://www.britannica.com/biography/Galileo-Galilei</dc:source>			
+			<dc:language xsi:type="dcterms:ISO639-2">It</dc:language>
+			<dc:coverage xsi:type="dcterms:TGN" ref="http://vocab.getty.edu/page/tgn/1000080">Italy</dc:coverage>
+			<dc:provenance>Biblioteca Nazionale Centrale di Firenze</dc:provenance>
+		</item>
+	</libro>

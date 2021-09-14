@@ -1,0 +1,74 @@
+aside .card:hover {
+    box-shadow: 20px 5px 40px -10px #888888 rgba(122, 144, 173, .9);
+    -webkit-box-decoration-break: clone 20px 20px 40px -10px rgba(38, 44, 52, .9);
+    -moz-box-shadow: 0px 5px 40px -10px rgba(38, 44, 52, .9);
+}
+
+.btn.btn-dark {
+  margin-top: 20px;
+}
+
+.btn.btn-info {
+  margin-bottom: 3px;
+  padding: 0px 5px 0px 5px;
+}
+
+.card-text b > a, li > b > a {
+    color: #A52A2A;
+}
+
+.container {
+  margin-top: 25px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: Times New Roman;
+}
+
+
+p {
+  font-family: Verdana;
+}
+
+iframe {
+  border: 0;
+}
+
+.index-image {
+  height: 300px;
+  margin-top: 10px;
+  margin-bottom: 10px; 
+}
+
+#item-title {
+  background-color: #FF8C00;
+  text-align: center;
+  padding: 5px;
+}
+
+.jumbotron.text-center {
+  background-color: #FFA07A;
+  margin-bottom:0;
+  padding: 40px;
+}
+
+#list-title {
+  background-color: #6B8E23;
+  padding: 5px;
+  text-align: center;
+}
+
+.navbar-nav {
+  margin: 25px;
+  text-align: center;
+}
+
+#person-title {
+  background-color: #CD853F;
+  padding: 5px;
+  text-align: center;
+}
+
+#td-link {
+  color: #000000;
+}

@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Opere di Galileo Galilei, Parte 3, Tomo 15, Astronomia: Il Saggiatore. Versione digitale</title>
+				<author xml:id="GG">
+					<persName sameAs="http://viaf.org/viaf/2470550">Galilei, Galileo (1564-1642)</persName>
+					<respStmt>
+						<resp>Giacomo Mascardi</resp>
+						<resp>Faber, Johann</resp>
+						<name xml:id="CM">Claudio Mariani</name>
+					</respStmt>
+				</author>
+			</titleStmt>
+			<publicationStmt>
+				<distributor resp="#CM">Claudio Mariani</distributor>
+			     <date when="2021-09-16">16 Settembre 2021</date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<title>Opere di Galileo Galilei, Parte 3, Tomo 15, Astronomia: Il Saggiatore.</title>
+					<author resp="#GG">Galilei, Galileo (1564-1642)</author>
+					<date when="1623">1623</date>
+					<pubPlace>Roma</pubPlace>
+					<publisher>Giacomo Mascardi</publisher>
+					<extent>273 p.</extent>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:lang="it">
+		<front>
+			<div type="dedication">
+				<titlePage>Il Saggiatore</titlePage>
+				<p>Del <abbr type="title"> Sig.</abbr> Galielo Galilei
+				<rs type="organization">Accademico Linceo</rs>, Filosofo, e Matematico primario del <abbr type="title">Serenifs.mo</abbr> Gran Duca di Toscana</p>
+			</div>
+			<div type="contents">
+				<head>Lettera</head> 
+		        <p><name type="person">Don Virginio Cesarini</name></p>
+			</div>		
+		</front>	
+		<body>		
+		    <graphic url="https://dl.wdl.org/4184/service/4184.pdf"></graphic>Io non ho mai potuto intendere, Illustrissimo <abbr type="title">Sig.</abbr> onde Sia nato, che tutto quello, che de'miei studi, per aggradire o feruire altrui m'è contenuto  metter in publico, abbia incontrato in molti una certa animosità in detrarre defraudare, e vilipendere quel poco di pregio che, fe non per l'opera, almeno per l'intenzion mia m'era creduto di meritare. Non prima fù veduto alle stampe il mio <name type="person">Nunzio Sidereo</name>, dove si dimostrarono tanti nuovi, e meravigliosi
+			<index indexname="Scienze Naturali" resp="#CM"> <terms>discoprimenti</terms></index> 
+			nel Cielo, che pur doveano esser grati agli amatori della vera 
+			<index indexname="Filosofia" resp="#CM"><terms>filofofia</terms></index>, che tosto si sollevaron per mille bande insidiatori di quelle lodi dovute à così fatti ritrovamenti; nè mancaron<gap reason="irrilevant" unit="words" extent="1"></gap> di quelli, che solo per contradir à miei detti, non si curarono di recar in dubbio quanto fu veduto à lor piacimento, e fiue duró più volte da gli occhi loro. Imposemi il Serenissimo Gran Duca <name type="person">Cosimo Secondo</name>, di Gloriosa memoria mio Signore, affondarsi le cofe nell'acqua, e per sodisfar'à così fatto comandamento, avendo distefo in carta quanto m'era venuto, oltre alla dottrina d'<name type="person">Archimede</name>, che per avventura è quanto di vero in effetto circa sì fatta materia poteva dirsi, eccoti subito piene tutte le stamperie d'inuettiue contro del mio discorso, nè avendo punto riguardo, che quanto da me fù prodotto sulsee confermato, e conchiulo con geometri che dimostrazioni,contradssero al mio parere, nè s'avvidero (tanto ebbe forza la passione) che'l contradire alla Geometria è un negare scopertamente la verità. Le lettere delle <index indexname="Astronomia" resp="#CM"><terms>macchie solari</terms></index>, e da quanti,e per quante guise furono combattute?
+        </body>
+	
+	</text>
+</TEI>
